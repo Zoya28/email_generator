@@ -71,7 +71,6 @@ A simple yet powerful Streamlit web app that uses Large Language Models (LLMs) t
 * **Sender** – Name of the email sender
 * **Recipient** – Who you're sending the email to
 * **Email Style** – Choose the tone (e.g., formal, casual)
-* **Upload Image** *(Optional)* – Attach an image to go with the email
 
 ---
 
@@ -81,7 +80,7 @@ A simple yet powerful Streamlit web app that uses Large Language Models (LLMs) t
 > **Style:** Formal
 > **Recipient:** Team
 > **Sender:** Project Manager
-> → Generates a polished invitation email, and you can even attach a team image if you want. 💼
+> → Generates a polished invitation email. 💼
 
 ---
 
